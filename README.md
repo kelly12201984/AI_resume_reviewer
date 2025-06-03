@@ -10,3 +10,8 @@ This Streamlit app allows users to upload a resume and a job description, then r
 Built with Python, Streamlit, OpenAI, and PyPDF2.
 
 🔗 Ideal for job seekers, portfolio reviews, or resume tuning.
+## 🚀 Live Demo
+
+Check out the deployed app here:  
+👉 [https://kellys-ai-resume-reviewer.streamlit.app/](https://kellys-ai-resume-reviewer.streamlit.app/)
+
